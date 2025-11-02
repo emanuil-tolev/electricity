@@ -7,25 +7,15 @@
 
 ## 2025-11-02 with a friend
 
-<details>
-
-<summary style="cursor: pointer; display: list-item;">Common Li-Ion battery cells</summary>
+### Common Li-Ion battery cells
 
 18650
 
-</details>
+### Connecting battery cells in series and in parallel
 
-<details>
+### Measuring battery capacity
 
-<summary style="cursor: pointer; display: list-item;">Connecting batteries in series and in parallel</summary>
-
-</details>
-
-<details>
-
-<summary style="cursor: pointer; display: list-item;">Measuring battery capacity</summary>
-
-### Wh vs Ah
+#### Wh vs Ah
 
 Watt-hours are useful when we have an associated device where we know the consumption in watts.
 
@@ -33,23 +23,12 @@ Amper-hours are useful when we know the voltage at which the battery will operat
 
 You can convert between the two of them if you know the battery voltage. (I guess the nominal voltage will give you nominal Ah and Wh values, whereas the real average voltage during different operations will give the real capacities for those operations.)
 
-</details>
+### Internal resistance (ESR) and battery degradation
 
-<details>
-
-<summary style="cursor: pointer; display: list-item;">Internal resistance (ESR) and battery degradation</summary>
-
-</details>
-
-<details>
-
-<summary style="cursor: pointer; display: list-item;">BMS - Battery Management Systems</summary>
+BMS - Battery Management Systems
 
 ### What is the role of a BMS
 
 ### Typical BMS components
 
-### APCs
-
-</details>
-
+#### APCs
