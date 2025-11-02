@@ -9,7 +9,7 @@
 
 <details>
 
-<summary>Common Li-Ion battery cells</summary>
+<summary style="cursor: pointer; display: list-item;">Common Li-Ion battery cells</summary>
 
 18650
 
@@ -17,13 +17,13 @@
 
 <details>
 
-<summary>Connecting batteries in series and in parallel</summary>
+<summary style="cursor: pointer; display: list-item;">Connecting batteries in series and in parallel</summary>
 
 </details>
 
 <details>
 
-<summary>Measuring battery capacity</summary>
+<summary style="cursor: pointer; display: list-item;">Measuring battery capacity</summary>
 
 ### Wh vs Ah
 
@@ -37,13 +37,13 @@ You can convert between the two of them if you know the battery voltage. (I gues
 
 <details>
 
-<summary>Internal resistance (ESR) and battery degradation</summary>
+<summary style="cursor: pointer; display: list-item;">Internal resistance (ESR) and battery degradation</summary>
 
 </details>
 
 <details>
 
-<summary>BMS - Battery Management Systems</summary>
+<summary style="cursor: pointer; display: list-item;">BMS - Battery Management Systems</summary>
 
 ### What is the role of a BMS
 
